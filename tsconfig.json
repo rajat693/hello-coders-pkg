@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", // More modern output
+    "module": "CommonJS", // Still fine for npm
+    "outDir": "dist", // ⬅️ Output JS + .d.ts files here
+    "declaration": true, // ⬅️ Generate .d.ts files
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"] // ⬅️ Only compile what's in /src
+}
