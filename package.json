@@ -1,0 +1,13 @@
+{
+  "name": "hello-coders-pkg",
+  "version": "1.0.3",
+  "main": "index.js",
+  "description": "A simple hello coders package",
+  "keywords": [
+    "hello",
+    "coders"
+  ],
+  "author": "Magical Coder From Mars",
+  "license": "MIT",
+  "type": "module"
+}
